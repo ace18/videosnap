@@ -21,4 +21,4 @@ NSString *const DEFAULT_ENCODING_PRESET = @"Medium";
 // 640x480 - 640x480 VGA (check its supported before setting it)
 // 1280x720 - 1280x720 720p HD (check its supported before setting it)
 
-NSString *const DEFAULT_ENCODING_PRESETS   = @"High, Medium, Low, 640x480, 1280x720";
+NSString *const DEFAULT_ENCODING_PRESETS   = @"High, Medium, Low, 640x480, 960x540, 1280x720, 1920x1080, 3840x2160, iFrame960x540, iFrame1280x720";
